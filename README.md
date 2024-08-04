@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @pabhijeet1209
-- 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning MERN Stack ...
-- 💞️ I’m looking to collaborate on ...
+Currently working on a e_learning platform.
+Looking to collaborate on Web and Mobile App Development Projects.
+Looking for help with Backend API Services.
+Learning Backend and AWS.
+
+Ask any thing related to Web Mobile App Development
 - 📫 Email abhijeetpatnaik12@gmail.com ...
 
 <!---
